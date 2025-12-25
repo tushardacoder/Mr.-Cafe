@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "text": "I Like The Coffee But A Little Expensive To Recommend To Friends. Can Buy Acceptable Equivalent In Waitrose For Half The Price",
+        "name": "Esther Howard",
+        "rating": "⭐⭐⭐⭐⭐",
+        "image": "https://i.postimg.cc/GhVkKwpS/pngegg-(1).png"
+    },
+    {
+        "id": 2,
+        "text": "Amazing aroma and rich flavor. Definitely worth it every morning.",
+        "name": "Brooklyn Simmons",
+        "rating": "⭐⭐⭐",
+        "image": "https://i.postimg.cc/GhVkKwpS/pngegg-(1).png"
+    },
+    {
+        "id": 3,
+        "text": "Smooth and flavorful coffee. The perfect start to my day!",
+        "name": "Jenny Wilson",
+        "rating": "⭐⭐⭐⭐",
+        "image": "https://i.postimg.cc/GhVkKwpS/pngegg-(1).png"
+    },
+    {
+        "id": 4,
+        "text": "Good quality coffee but a bit pricey. Still, the taste makes it worthwhile.",
+        "name": "Cameron Williamson",
+        "rating": "⭐⭐",
+        "image": "https://i.postimg.cc/GhVkKwpS/pngegg-(1).png"
+    },
+    {
+        "id": 5,
+        "text": "Best coffee I've ever had! Rich aroma, smooth texture, and excellent flavor.",
+        "name": "Kristin Watson",
+        "rating": "⭐⭐⭐⭐⭐",
+        "image": "https://i.postimg.cc/GhVkKwpS/pngegg-(1).png"
+    }
+]

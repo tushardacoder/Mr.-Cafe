@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Iced Latte Vertical",
+    "price": "$50",
+    "rating": "4",
+    "description": "Espresso, Milk, Ice and Choice of <br> Flavor(s) - 20oz",
+    "image": "https://i.postimg.cc/CK7CKNtP/pngegg-(17)-2-(2).png"
+  },
+  {
+    "id": 2,
+    "title": "Skinny Latte",
+    "price": "$50",
+    "rating": 5,
+    "description": "Espresso, Milk, Ice and Choice of <br> Flavor(s) - 20oz",
+    "image": "https://i.postimg.cc/CK7CKNtP/pngegg-(17)-2-(2).png"
+  },
+  {
+    "id": 3,
+    "title": "Cappuccino",
+    "price": "$50",
+    "rating": 4,
+    "description": "Espresso, Milk, Ice and Choice of <br> Flavor(s) - 20oz",
+    "image": "https://i.postimg.cc/CK7CKNtP/pngegg-(17)-2-(2).png"
+  },
+    {
+    "id": 3,
+    "title": "Cappuccino",
+    "price": "$50",
+    "rating": 4,
+    "description": "Espresso, Milk, Ice and Choice of <br> Flavor(s) - 20oz",
+    "image": "https://i.postimg.cc/CK7CKNtP/pngegg-(17)-2-(2).png"
+  },
+  
+  {
+    "id": 1,
+    "title": "Iced Latte Vertical",
+    "price": "$50",
+    "rating": "4",
+    "description": "Espresso, Milk, Ice and Choice of <br> Flavor(s) - 20oz",
+    "image": "https://i.postimg.cc/CK7CKNtP/pngegg-(17)-2-(2).png"
+  },
+   {
+    "id": 2,
+    "title": "Skinny Latte",
+    "price": "$50",
+    "rating": 5,
+    "description": "Espresso, Milk, Ice and Choice of <br> Flavor(s) - 20oz",
+    "image": "https://i.postimg.cc/CK7CKNtP/pngegg-(17)-2-(2).png"
+  }
+
+]
